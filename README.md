@@ -1,6 +1,6 @@
 # cds-service-example-python
 
-Simple python CDS service using the `cds-hooks-work` framework. 
+Simple python CDS service using the [cds-hooks-work](https://github.com/vlaurenzano/cds-hooks-work) framework. 
 
 View it in action here: 
 
